@@ -394,51 +394,10 @@ font-size: 60px;
 .buttons .Signup{
     display: none;
 }
-.buttons .Login
-{
+.buttons .Login{
     border-radius: 20px;
 }
-.left_text .menu
-{
+.left_text .menu{
 margin-left: 10px;
 }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    position: relative;
-}
-.father{
-    width: 500px;
-    height: 400px;
-    z-index: 0;
-    position: relative;
-    background: red;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius:10px 100px;
-}
-.boxstyle1 {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-}
-input[type="text"]{
-} */
