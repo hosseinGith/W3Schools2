@@ -355,9 +355,9 @@ svg{
     }
 }
 @media screen and (max-width:613px) {
-    .GetCertified{
-        display: none;
-    }
+   .menu_open{
+    display:none;
+   }
     .Tutorials{
         display: none;
     }
