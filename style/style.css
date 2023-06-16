@@ -40,7 +40,7 @@ body{
 }
 .left_text .menu{
     display: none;
-    width:100px;
+    width:80px;
 }
 .right_text{
     display: flex;
