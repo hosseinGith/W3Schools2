@@ -31,7 +31,7 @@ body{
     background-blend-mode:darken;
 }
 .left_text span{
-    padding: 20px 20px;
+    padding: 20px;
     cursor: pointer;
 }
 .left_text span:hover{
@@ -40,6 +40,7 @@ body{
 }
 .left_text .menu{
     display: none;
+    padding:20px 30px;
 }
 .right_text{
     display: flex;
@@ -354,11 +355,7 @@ svg{
 
     }
 }
-@media screen and (max-width:530px){
-   .menu_open{
-    display:none;
-   }
-}
+
 @media screen and (max-width:613px) {
 
     .Tutorials{
