@@ -354,10 +354,13 @@ svg{
 
     }
 }
-@media screen and (max-width:613px) {
+@media screen and (max-width:530px){
    .menu_open{
     display:none;
    }
+}
+@media screen and (max-width:613px) {
+
     .Tutorials{
         display: none;
     }
