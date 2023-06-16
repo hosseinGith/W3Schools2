@@ -16,3 +16,9 @@ menu.addEventListener('click',()=>{
 closeMenu.addEventListener('click',()=>{
     openMenu.style.display ='none'
 })
+window.addEventListener('change',()=>{
+     if(window.innerWidth == '530'){
+        openMenu.style.display ='none'
+        
+     }
+})
